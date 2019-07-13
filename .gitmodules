@@ -1,0 +1,3 @@
+[submodule "mathlib"]
+	path = mathlib
+	url = https://github.com/cipher1024/mathlib
